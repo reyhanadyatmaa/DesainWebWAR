@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Distro clothing. reyhan co</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="css/shop-homepage.css" rel="stylesheet">
+    <link href="style2.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+    <body background="background.jpg">
+
+   <!-- Navigation -->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+      <div class="container">
+        <a class="navbar-brand" href="index.html">swovel monc.</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+          <ul class="navbar-nav ml-auto">
+            <li class="nav-item active">
+              <a class="nav-link" href="index.html">Home
+                <span class="sr-only">(current)</span>
+              </a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="about.html">About</a>
+            </li>
+            
+            <li class="nav-item">
+              <a class="nav-link" href="store.html">Contact</a>
+
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="logout.php">Log out</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+    <!-- Page Content -->
+    <div class="container">
+
+      <div class="row">
+
+        <div class="col-lg-3">
+
+    
+          
+
+        </div>
+        <!-- /.col-lg-3 -->
+        
+      <div class="container">
+
+      <div class="row">
+
+        <div class="col-lg-3">
+
+    <a href="about.html"><img class="card-img-top" src="dopess.png" alt="contact.php"></a>
+          
+
+        </div>
+
+        <div class="col-lg-9">
+
+          <div id="carouselExampleIndicators" class="carousel slide my-4" data-ride="carousel">
+            <ol class="carousel-indicators">
+              <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+              <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+              <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+            </ol>
+            <div class="carousel-inner" role="listbox">
+              <div class="carousel-item active">
+                <img class="d-block img-fluid" src="vuvu.jpg" alt="First slide">
+              </div>
+              <div class="carousel-item">
+                <img class="d-block img-fluid" src="hou.jpg" alt="Second slide">
+              </div>
+              <div class="carousel-item">
+                <img class="d-block img-fluid" src="dukes.jpg" alt="Third slide">
+              </div>
+            </div>
+            <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="sr-only">sebelumnya</span>
+            </a>
+            <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="sr-only">selanjutnya</span>
+            </a>
+          </div>
+         
+
+   
+                 
+                 <div class="col-lg-16 col-md-16 mb-16">
+              <div class="card h-100">
+                 <h2 class="section-heading mb-4">
+                  <span class="section-heading-upper"><center>Every "thread" is woven with passion</center></span>
+                    <div class="card-footer">
+                  <span class="section-heading-lower"><center><br>History</center></span></br> </span>
+                </h2>
+                <p>--------------------------------------------------------------------------------------------------------------------------------</p>
+                
+                <div class="card-body">
+                  <h4 class="card-title">
+                    
+                  
+                  
+                
+                 </div>
+                <div class="card-footer">
+                  
+                
+
+            
+                <p class="mb-0">We did not intentionally create a new innovation, by making the price of our brand at a very expensive price with little production so that it could be called a "Limited edition" so that it could lure customers to want to waste their money only for yarn we deliberately made expensive.</p><br>
+                <p>--------------------------------------------------------------------------------------------------------------------------</p>
+                <p>kami memang tidak sengaja menciptakan inovasi baru,dengan membuat harga brand kami dengan harga yang sangat fantastis mahal dengan produksi yang sedikit sehingga bisa dikatakan "Limited edition" maka dari itu dapat memikat pelanggan hingga ingin menghamburkan duit nya hanya untuk rajutan benang yang sengaja kami buat mahal</p></br>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <footer class="footer text-faded text-center py-5">
+      <div class="container">
+        <p class="m-0 small">Copyright &copy; Your Website 2018</p>
+      </div>
+    </footer>
+
+    <!-- Bootstrap core JavaScript -->
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+  </body>
+
+</html>
