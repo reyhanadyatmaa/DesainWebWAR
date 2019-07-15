@@ -26,7 +26,7 @@
   <div class="badan">
     
     <p><h2><center>BASKET</center></h2></p>
-    <img src="img/12.jpg" alt="Italian Trulli" style="width:500px; height:300px; align-items: center;">
+    <img src="img/1.jpg" alt="Italian Trulli" style="width:500px; height:300px; align-items: center;">
     <p>Basket adalah olahraga bola berkelompok yang terdiri atas dua tim beranggotakan masing-masing lima orang yang saling bertanding mencetak poin dengan memasukkan bola ke dalam keranjang lawan. Bola basket sangat cocok untuk ditonton karena biasa dimainkan di ruang olahraga tertutup dan hanya memerlukan lapangan yang relatif kecil. Selain itu, permainan bola basket juga lebih kompetitif karena tempo permainan cenderung lebih cepat jika dibandingkan dengan olahraga bola yang lain, seperti voli dan sepak bola. Ada 3 posisi utama dalam bermain basket, yaitu: 1) Forward, pemain yang tugas utamanya adalah mencetak poin dengan memasukkan bola ke keranjang lawan, 2) Defense, pemain yang tugas utamanya adalah menjaga pemain lawan agar pemain lawan kesulitan memasukkan bola, dan 3) Playmaker, pemain yang menjadi tokoh kunci permainan dengan mengatur alur bola dan strategi yang dimainkan oleh rekan-rekan setimnya.
 
 Bola basket adalah salah satu olahraga yang paling digemari oleh penduduk Amerika Serikat dan penduduk di belahan bumi lainnya, antara lain di Amerika Selatan, Eropa Selatan, Lithuania, dan juga di Indonesia. Banyak kompetisi bola basket yang diselenggarakan setiap tahun, seperti British Basketball League (BBL) di Inggris, National Basketball Association (NBA) di Amerika, dan Indonesia Basketball League (IBL) di Indonesia..</p>
