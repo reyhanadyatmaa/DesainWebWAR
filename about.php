@@ -44,6 +44,7 @@
   <p><h2><center>Sang Calon Programmer :)</center></h2></p>
   <img class="tengah" src="img/calon_programmer.jpg" alt="Abghi, Reyhan, Wahyu" style="width:500px; height:300px;">
   <h3><center>Kami bertiga merupakan Programer yang awalnya tidak menduga akan bisa membuat hasil yang brilian seperti web ini, yang pertama mungkin kami hanya berterima kasih kepada allah swt mungkin kami akan membuat yang lebih besar dari pada ini lagi, dan kami akan terus membuat olahraga menjadi pusat untuk menjadi kebanggan kita semua,kami bertiga pamit untuk projek besar berikutnya<center></h3>
+  <h5><center>- Reyhan Abghi Wahyu-</center></h5>
 </div>
 </div>
 </body>
